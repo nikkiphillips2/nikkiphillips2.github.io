@@ -3,5 +3,6 @@ body{
 }
 
 #sky{
-  position: left 300px;
+  position:relative;
+  left:100px;
 }
